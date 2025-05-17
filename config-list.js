@@ -3,14 +3,14 @@ const CONFIG = require('../config-json.js')
 
 let feedList = [
 
-  {
-    title: '動畫小坑谷',
-    feedID: 'valleylife351',
-    homepageURL: 'https://www.youtube.com/channel/UCbCb-ZUoKwQ8vcRbrH2nE0Q',
-    itemFilters: [
-      ItemFiltersPreset.between1minTo10Min,
-    ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
-  },
+  // {
+  //   title: '動畫小坑谷',
+  //   feedID: 'valleylife351',
+  //   homepageURL: 'https://www.youtube.com/channel/UCbCb-ZUoKwQ8vcRbrH2nE0Q',
+  //   itemFilters: [
+  //     ItemFiltersPreset.between1minTo10Min,
+  //   ] // 霸道總裁攀岩開會、網紅天天搞小團體...《絕世網紅》劇情超浮誇？《 志祺今天不讀稿 》EP010｜志祺七七
+  // },
   {
     title: '番茄没有酱聊AI繪圖',
     feedID: 'lsm0315',
