@@ -63,6 +63,13 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCHV8lZJsXdW8lOFr2z8WPcg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  {
+    title: 'Leya蕾雅 聊 遊戲',
+    feedID: 'RICOTASTY',
+    homepageURL: 'https://www.youtube.com/channel/UCiXJjvsRQEyT06x3YUwueVw',
+    // itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
     
   // {
   //   title: '想做教育家的Klaus',
