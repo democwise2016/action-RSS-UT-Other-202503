@@ -52,7 +52,18 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCgHUl1pwUVfrX8QotB-t2gQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+
+  // 以上5個==================
+
   
+  {
+    title: 'RICO 作 料理',
+    feedID: 'RICOTASTY',
+    homepageURL: 'https://www.youtube.com/channel/UCHV8lZJsXdW8lOFr2z8WPcg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+    
   // {
   //   title: '想做教育家的Klaus',
   //   feedID: 'klaus6510',
