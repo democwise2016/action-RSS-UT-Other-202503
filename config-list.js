@@ -46,6 +46,13 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '林辰Buchi',
+    feedID: 'LinBuchi',
+    homepageURL: 'https://www.youtube.com/channel/UCgHUl1pwUVfrX8QotB-t2gQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  
   // {
   //   title: '想做教育家的Klaus',
   //   feedID: 'klaus6510',
