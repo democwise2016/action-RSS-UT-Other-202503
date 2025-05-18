@@ -70,6 +70,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCiXJjvsRQEyT06x3YUwueVw',
     // itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '森纳映画 聊 遊戲不止',
+    feedID: 'SONAR606',
+    homepageURL: 'https://www.youtube.com/channel/UCDNeEBgigHHGtJJOpHSnadA',
+    // itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
     
   // {
   //   title: '想做教育家的Klaus',
