@@ -83,6 +83,19 @@ let feedList = [
   //   homepageURL: 'https://www.youtube.com/channel/UCZ4NwvuGYgFyjnRRJekdnHw',
   //   itemFilters: ItemFiltersPreset.between3minTo30Min,
   // },
+
+  {
+    title: 'AKU遊戲窩',
+    feedID: 'AKUGAMEChannel',
+    homepageURL: 'https://www.youtube.com/channel/UCC5DpD05rp_TJapb3jDEAmQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'FUN科技',
+    feedID: 'FUN-rp3dq',
+    homepageURL: 'https://www.youtube.com/channel/UCE7UCIEDIbinkMnNOtSyqzg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
