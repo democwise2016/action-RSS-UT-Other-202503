@@ -66,7 +66,7 @@ let feedList = [
 
   {
     title: 'Leya蕾雅 聊 遊戲',
-    feedID: 'RICOTASTY',
+    feedID: 'Leya',
     homepageURL: 'https://www.youtube.com/channel/UCiXJjvsRQEyT06x3YUwueVw',
     // itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
