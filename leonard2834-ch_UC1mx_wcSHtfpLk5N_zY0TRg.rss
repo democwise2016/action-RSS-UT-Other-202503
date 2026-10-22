@@ -3,7 +3,7 @@
     <title><![CDATA[Leonard[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/273/800/800.jpg?hmac=h1E3Vaq16efUDAZpiffEGB82pldmez7nWqMLw-_HxzU</url>
+      <url>https://fastly.picsum.photos/id/522/800/800.jpg?hmac=VKXf-FJU5v9T-O4yDtU-8YuNZflcA_NapRZ1lLq1BOY</url>
       <title>Leonard[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[Leonard[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC1mx_wcSHtfpLk5N_zY0TRg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC1mx_wcSHtfpLk5N_zY0TRg</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 500<br />
+      Failed to parse feed: Status code 404<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC1mx_wcSHtfpLk5N_zY0TRg" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC1mx_wcSHtfpLk5N_zY0TRg</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[Leonard[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/273/800/800.jpg?hmac=h1E3Vaq16efUDAZpiffEGB82pldmez7nWqMLw-_HxzU"/>
+    <itunes:image href="https://fastly.picsum.photos/id/522/800/800.jpg?hmac=VKXf-FJU5v9T-O4yDtU-8YuNZflcA_NapRZ1lLq1BOY"/>
 </channel>
 </rss>
